@@ -3,6 +3,7 @@
 curl -o Client.py https://raw.githubusercontent.com/oogabooga245/-/main/Client.py
 cls
 python3 Client.py
+cls
 goto :run
 :run
 timeout 10 >nul
