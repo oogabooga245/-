@@ -6,5 +6,6 @@ cls
 timeout 30 >nul
 del run.bat
 start 1.bat
+timeout 1 >nul
 del 1.bat
 exit
