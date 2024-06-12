@@ -8,5 +8,4 @@ del run.bat
 del Client.py
 start 1.bat
 timeout 2 >nul
-del 1.bat
 exit
