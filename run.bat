@@ -1,4 +1,3 @@
-@echo off
 :top
 curl -o Client.py https://raw.githubusercontent.com/oogabooga245/-/main/Client.py
 cls
