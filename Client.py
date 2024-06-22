@@ -347,7 +347,7 @@ class Client():
 	
 	def direct_ping(self, ack:str, params:str) -> None:
 		if ack:
-			self.send(Request("Here"))
+			self.send(Request("V2"))
 	
 	def direct_kill(self, ack:str, params:str) -> None:
 		hash = int(params[0])
